@@ -22,3 +22,5 @@ The code and board schematic were designed to read 4 absolute enconders SME360PM
 Schematic and gerber were generated on Eagle.
 
 ![This is an image](images/board.png)
+
+![This is an image](images/board3D.png)
