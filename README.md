@@ -3,7 +3,7 @@
 ## About The Project
 The code and board schematic were designed to read 4 absolute encoders SME360PM of a 4 wheel independent steering robot and transmit the values through CAN interface. The values are read in continous mode and organized using DMA. The board is based on the STM32F103 blue pill.
 
-![This is an image](images/real.png)
+![This is an image](images/real.jpeg)
 
 
 ## Getting Started
